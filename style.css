@@ -2,8 +2,8 @@ h1{color:grey;font-family:verdana}
 body {background-color:black;font-family:arial;color:white}
 
 .maindiv {
+    color:grey;
     background-color:white;
     width:300 px;
     padding:20 px;
-    align:center;
 }
